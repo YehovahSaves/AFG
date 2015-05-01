@@ -1,11 +1,11 @@
 # Logo Url
 # Please enter the absolute path to your logo file
 # or remove the following line with replacing logo-header.png with your own logo
-logo: http://servantofyehovah.github.io/AnswersFromGod/images/Answers_From_God_500x379_gold_(top).jpg
+logo: http://servantofyehovah.github.io/AnswersFromGod/images/Answers_From_God_500x379_gold_top.jpg
 
 # Header
 menu:
-  Home: /
+  Home: /AnswersFromGod/
   # Delete this row if you don't want categories in your header nav bar
   Categories:
   About: /about/index.html
