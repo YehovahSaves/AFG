@@ -1,7 +1,14 @@
 title: "How To Read “Answers From God” on a PC, Android or iPhone Platform"
 date: 2015-04-29 12:51:24
-tags: Kindle, PC, Android, iPhone, iPad, iPod
+tags:
+- Kindle
+- PC
+- Android
+- iPhone
+- iPad
+- iPod
 ---
+![img caption](http://servantofyehovah.github.io/AnswersFromGod/images/Answers_From_God_125x200_gold.jpg)
 ## PC ##
 1. Download the [Kindle for PC application](http://amazon.com/gp/kindle/pc/download) installer from: <http://amazon.com/gp/kindle/pc/download>.
 2. Run the installer that you downloaded in step 1, above, and install the Kindle for PC application on your computer.
