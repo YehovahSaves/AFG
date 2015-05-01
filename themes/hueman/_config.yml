@@ -1,7 +1,7 @@
 # Logo Url
 # Please enter the absolute path to your logo file
 # or remove the following line with replacing logo-header.png with your own logo
-logo: http://servantofyehovah.github.io/AnswersFromGod/images/Answers_From_God_500x379_gold_top.jpg
+logo: /AnswersFromGod/images/Answers_From_God_500x379_gold_top.jpg
 
 # Header
 menu:
@@ -37,7 +37,7 @@ widgets:
 
 # Links
 links:
-  Answers_From_God: http://www.amazon.com/dp/B00T74IHGO
+  Answers From God: http://www.amazon.com/dp/B00T74IHGO
 
 # Don't Use Google APIs if you are in google-blocked areas
 use_google_apis: false
