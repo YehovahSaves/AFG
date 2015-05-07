@@ -8,7 +8,7 @@ tags:
 - iPad
 - iPod
 ---
-![](/AnswersFromGod/images/Answers_From_God_125x200_gold.jpg)
+![](https://9to5google.files.wordpress.com/2012/03/kindle-android-app.jpeg)
 ## PC ##
 1. Download the [Kindle for PC application](http://amazon.com/gp/kindle/pc/download) installer from: <http://amazon.com/gp/kindle/pc/download>.
 2. Run the installer that you downloaded in step 1, above, and install the Kindle for PC application on your computer.
