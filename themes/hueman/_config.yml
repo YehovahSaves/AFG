@@ -23,10 +23,11 @@ scrollLoading: true
 
 # Sidebar
 social_links:
+  email: mailto:Christian@AnswersFromYah.com?Subject=Blog%20Contact
   twitter:
   facebook:
   google_plus:
-  github: http://servantofyehovah.github.io/AnswersFromGod
+  #github: http://servantofyehovah.github.io/AnswersFromGod
   weibo:
   rss:
 widgets:
