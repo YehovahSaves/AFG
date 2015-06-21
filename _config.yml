@@ -77,4 +77,4 @@ deploy:
   branch: gh-pages
 
 # Disqus
-#disqus_shortname: communitydeveloper
+disqus_shortname: answersfromgod

@@ -8,8 +8,9 @@ logo: /images/Answers_From_God_500x379_gold_top.jpg
 menu:
   #Home: /AnswersFromGod/
   Home: /
-  # Delete this row if you don't want categories in your header nav bar
   Categories:
+  Questions Answered: /FAQ/index.html
+  Links: /links/index.html
   About: /about/index.html
 
 # Content
@@ -23,7 +24,8 @@ scrollLoading: true
 
 # Sidebar
 social_links:
-  email: mailto:Christian@AnswersFromGod.com?Subject=Blog%20Contact
+  #email: mailto:Christian@AnswersFromGod.com?Subject=Blog%20Contact
+  email: /EmailSubscribe/index.html
   #twitter:
   #facebook:
   #google_plus:
@@ -40,16 +42,19 @@ widgets:
 
 # Links
 links:
-  Answers From God: http://www.amazon.com/dp/B00T74IHGO
+  Answers From God: http://amzn.to/1KiS8lM
 
 # Don't Use Google APIs if you are in google-blocked areas
 use_google_apis: false
 
 # Miscellaneous
-#google_analytics:
+google_analytics: UA-63184318-1
 #favicon: /favicon.png
 #fb_admins:
 #fb_app_id:
 
 # Language
 #language: en-US
+
+# Comments
+comment_provider: disqus
