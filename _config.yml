@@ -72,7 +72,7 @@ theme: hueman
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  #repo: https://github.com/darwinairola/AnswersFromGod.git
+  #repo: https://github.com/ServantOfYehovah/AnswersFromGod.git
   repo: git@github.com:ServantOfYehovah/AnswersFromGod.git
   branch: gh-pages
 
