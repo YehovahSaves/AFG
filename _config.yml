@@ -7,10 +7,14 @@ title: Answers From God
 subtitle:
 description:
 author: Servant of יהוה
+author_title: 'Student of Yehoshua'
 email: Christian@AnswersFromGod.com
 #language: en-US
 language: en
+#location: 'Auckland, New Zealand'
+#timezone: Pacific/Auckland
 timezone: America/Los_Angeles
+#avatar:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
