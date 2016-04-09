@@ -77,7 +77,8 @@ theme: hueman
 deploy:
   type: git
   #repo: https://github.com/ServantOfYehovah/AnswersFromGod.git
-  repo: git@github.com:ServantOfYehovah/AnswersFromGod.git
+  #repo: git@github.com:ServantOfYehovah/AnswersFromGod.git
+  repo: git@ghServantOfYehovah:ServantOfYehovah/AnswersFromGod.git
   branch: gh-pages
 
 # Disqus
