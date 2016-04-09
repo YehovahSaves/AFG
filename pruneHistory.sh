@@ -1,5 +1,9 @@
 #!/usr/bin/sh
-#
+
+#  set git identity
+export GIT_AUTHOR_NAME='Servant of Yehovah'
+export GIT_AUTHOR_EMAIL='ServantOfYehovah@AnswersFromGod.com'
+
 #  switch to the gh-pages (generated files) branch
 git checkout gh-pages
 #
@@ -28,3 +32,7 @@ git gc --aggressive # aggressively collect garbage; may take a lot of time on la
 
 #  push the changes back to github
 git push ghSoY gh-pages --force
+
+#  unset git identity
+unset GIT_AUTHOR_NAME
+unset GIT_AUTHOR_EMAIL
