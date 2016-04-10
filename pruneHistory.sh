@@ -1,4 +1,7 @@
-#!/usr/bin/sh
+#!/usr/bin/sh -e
+#
+#  note that the -e flag should cause this script to terminate with an error if
+#  any command fails (returns a non-zero exit status)
 
 #  set git identity
 export GIT_AUTHOR_NAME='Servant of Yehovah'
@@ -7,8 +10,11 @@ export GIT_AUTHOR_EMAIL='ServantOfYehovah@AnswersFromGod.com'
 #  switch to the gh-pages (generated files) branch
 git checkout gh-pages
 #
-#  pull down the latest changes from github
-git pull ghSoY gh-pages
+#  fetch the latest changes from github
+git fetch ghSoY gh-pages
+#
+#  discharge any local changes (this will make a mess if not on gh-pages branch)
+git reset --hard ghSoY/gh-pages
 #
 #  obtain the hash of the most recent commit
 HASH=`git log -1 | sed -n 's/^commit \(.*\)$/\1/p'`
