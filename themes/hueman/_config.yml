@@ -20,14 +20,14 @@ fancybox: true
 thumbnail: true
 
 # Scroll Loading
-scrollLoading: true
+scrollLoading: false
 
 # Sidebar
 social_links:
   #email: mailto:Christian@AnswersFromGod.com?Subject=Blog%20Contact
   email: /EmailSubscribe/index.html
   #twitter:
-  facebook: https://www.facebook.com/profile.php?id=100011164900228
+  facebook: https://www.facebook.com/profile.php?id=100011478382305
   #google_plus:
   #github: http://servantofyehovah.github.io/AnswersFromGod
   #weibo:
