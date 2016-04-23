@@ -13,7 +13,7 @@ tags:
 ---
 ![](/images/Political_Brands.jpg)
 
-*Updated: 2016-03-12*
+*Updated: 2016-04-23*
 
 ### Will any of the presidential candidates save the USA if elected?
 The answer that one gives (**not** the truth) depends, in part, upon his or her worldview. Someone looking at the world scene, with all of its wars and conflict, is likely to conclude that humans can solve our problems by getting rid of our differences. Thus, the humanist (and, surprisingly, the Islamist) might (apparently logically) conclude that the solution to the major problems that we are facing is a global, worldwide (or "one-world") government and a single ("tolerant" but uniform) religion for all of humanity.
@@ -62,6 +62,13 @@ Again, I have lots of research to do on the various candidates, but I was extrem
 As one of my wise friends explained, [God can utilize anyone to do His Will](https://www.biblegateway.com/passage/?search=Isaiah+44%3A24-%3B+Isaiah+45%3A3%2C+13&version=DARBY). He recalled that folks were also comparing Ronald Reagan to Hitler before he was elected, and Reagan was clearly one of the greatest presidents of our lifetime.
 
 [No matter who you vote for, pray for him or her, as well as all of our current leaders (and everyone else).](https://www.biblegateway.com/passage/?search=1%20Timothy%202:1-4&version=DLNT)
+
+### 2016-04-23 Update
+
+Today, I am not feeling so great about contemplating Trump as the next president of the USA:
+
+* [Donald Trump: Transgender People Should Be Allowed to Use Bathroom of Their Choice](http://www.mediaite.com/tv/donald-trump-transgender-people-should-be-allowed-to-use-bathroom-of-their-choice/)
+* [The Most Terrifying Donald Trump Video Yet!](http://messiahsmandate.org/terrifying-donald-trump-17-video-yet-2/)
 
 {% youtube r7e6gLht6OQ %}
 
