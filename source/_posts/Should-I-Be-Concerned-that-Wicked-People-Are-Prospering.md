@@ -8,8 +8,27 @@ tags:
 - prophecy
 ---
 ![](/images/wicked-prosper.jpg)
+
+*Updated: 2016-05-25*
+
 >Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
 ><cite>[Isaiah 5:20, KJV](https://www.biblegateway.com/passage/?search=Isaiah+5%3A20&version=KJV)</cite>
+
+<!-- -->
+>When the wicked flourish like grass and all the workers of evil blossom, it is so they can be destroyed forever.
+><cite>[Psalm 92:7, LEB](https://www.biblegateway.com/verse/en/Psalm%2092:7)</cite>
+
+<!-- -->
+>The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come. He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.
+><cite>[Isaiah 57:1-2, KJV](https://www.biblegateway.com/passage/?search=Isaiah+57%3A1-2&version=KJV)</cite>
+
+<!-- -->
+>Be glad about this, even though it may now be necessary for you to be sad for a while because of the many kinds of trials you suffer. Their purpose is to prove that your faith is genuine. Even gold, which can be destroyed, is tested by fire; and so your faith, which is much more precious than gold, must also be tested, so that it may endure. Then you will receive praise and glory and honor on the Day when Jesus Christ is revealed. 
+><cite>[1 Peter 1:6-7, GNT](https://www.biblegateway.com/passage/?search=1+Peter+1%3A6-7&version=GNT)</cite>
+
+<!-- -->
+>For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it. For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
+><cite>[Matthew 16:25-26, KJV](https://www.biblegateway.com/passage/?search=Matthew+16%3A25-26&version=KJV)</cite>
 
 <!-- -->
 >Ye have said, It is vain to serve God: and what profit is it that we have kept His ordinance, and that we have walked mournfully before [&#1497;&#1492;&#1493;&#1492;](http://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV) of hosts? And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered. Then they that feared [&#1497;&#1492;&#1493;&#1492;](http://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV) spake often one to another: and [&#1497;&#1492;&#1493;&#1492;](http://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV) hearkened, and heard it, and a book of remembrance was written before Him for them that feared [&#1497;&#1492;&#1493;&#1492;](http://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV), and that thought upon His Name. And they shall be mine, saith [&#1497;&#1492;&#1493;&#1492;](http://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV) of hosts, in that day when I make up my jewels; and I will spare them, as a man spareth his own son that serveth him. Then shall ye return, and discern between the righteous and the wicked, between him that serveth God and him that serveth Him not.
@@ -43,17 +62,14 @@ tags:
 >Who shall lay any thing to the charge of God's elect? It is God that justifieth. Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.
 >
 >Who shall separate us from the love of Christ? shall tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter. Nay, in all these things we are more than conquerors through Him that loved us. For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come, nor height, nor depth, nor any other creature, shall be able to separate us from the love of God, which is in Christ Jesus our Lord.
-><cite>[Romans 8:28-39](https://www.biblegateway.com/passage/?search=Romans+8%3A28-39&version=KJV)</cite>
+><cite>[Romans 8:28-39, KJV](https://www.biblegateway.com/passage/?search=Romans+8%3A28-39&version=KJV)</cite>
 
 <!-- -->
->The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come. He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.
-><cite>[Isaiah 57:1-2](https://www.biblegateway.com/passage/?search=Isaiah+57%3A1-2&version=KJV)</cite>
-
-<!-- -->
->For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it. For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?
-><cite>[Matthew 16:25-26, KJV](https://www.biblegateway.com/passage/?search=Matthew+16%3A25-26&version=KJV)</cite>
-
+>Another parable set he before them, saying, The kingdom of the heavens has become like a man sowing good seed in his field; but while men slept, his enemy came and sowed darnel amongst the wheat, and went away. But when the blade shot up and produced fruit, then appeared the darnel also. And the bondmen of the householder came up and said to him, Sir, hast thou not sown good seed in thy field? whence then has it darnel? And he said to them, A man [that is] an enemy has done this. And the bondmen said to him, Wilt thou then that we should go and gather it [up]? But he said, No; lest [in] gathering the darnel ye should root up the wheat with it. Suffer both to grow together unto the harvest, and in time of the harvest I will say to the harvestmen, Gather first the darnel, and bind it into bundles to burn it; but the wheat bring together into my granary.
+>
+>Then, having dismissed the crowds, he went into the house; and his disciples came to him, saying, Expound to us the parable of the darnel of the field. But he answering said, He that sows the good seed is the Son of man, and the field is the world; and the good seed, these are the sons of the kingdom, but the darnel are the sons of the evil [one]; and the enemy who has sowed it is the devil; and the harvest is [the] completion of [the] age, and the harvestmen are angels. As then the darnel is gathered and is burned in the fire, thus it shall be in the completion of the age. The Son of man shall send his angels, and they shall gather out of his kingdom all offences, and those that practise lawlessness; and they shall cast them into the furnace of fire; there shall be the weeping and the gnashing of teeth. Then the righteous shall shine forth as the sun in the kingdom of their Father. He that has ears, let him hear.
+><cite>[Matthew 13:24-30,36-43, Darby](https://www.biblegateway.com/passage/?search=Matthew+13%3A24-30%2C36-43&version=DARBY)</cite>
 
 <br>
 <hr style="border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
-For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://amzn.to/1KiS8lM).&rdquo;
+For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ).&rdquo;

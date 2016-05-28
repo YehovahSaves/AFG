@@ -10,7 +10,7 @@ tags:
 ---
 ![](/images/There_is_nothing_new_under_the_sun.gif)
 ### Appreciation
-This article was inspired, in no small part, by many revelations about the Word of [&#1497;&#1492;&#1493;&#1492;](https://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV) given to [Bill Cloud](http://billcloud.org/about-bill/). Of course, I do not believe that everyone of Mr. Cloud's beliefs and teachings are Biblically correct. Thus, as always (and [as I recommend in the chapter entitled, "Understanding God's Word"](http://amzn.to/1KiS8lM)), it behooves the student to validate everything that is taught against the revealed Word of [&#1497;&#1492;&#1493;&#1492;](https://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV).
+This article was inspired, in no small part, by many revelations about the Word of [&#1497;&#1492;&#1493;&#1492;](https://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV) given to [Bill Cloud](http://billcloud.org/about-bill/). Of course, I do not believe that everyone of Mr. Cloud's beliefs and teachings are Biblically correct. Thus, as always (and [as I recommend in the chapter entitled, "Understanding God's Word"](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ)), it behooves the student to validate everything that is taught against the revealed Word of [&#1497;&#1492;&#1493;&#1492;](https://www.blueletterbible.org/lang/Lexicon/Lexicon.cfm?strongs=H3068&t=KJV).
 
 ### Preamble
 Moreover, as I attempted to put together a brief but compelling summary of some of the more impressive parallels between Biblical history and our day and age, I realized that the Bible is far too pregnant with knowledge to enable any such undertaking. Thus, I scaled back the goal of this article to merely provide some surface level insights into how the original deception continues to repeat itself, today, and I highly encourage you to dive into the Bible, in all of its facets--including with an eye on understanding the historic patterns that it mentions and how they have embodied themselves throughout human history and into our present day and age.
@@ -41,4 +41,4 @@ Utilizing history as a guide, we can be relatively certain of a fate not unlike 
 
 <br>
 <hr style="border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
-For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://amzn.to/1KiS8lM).&rdquo;
+For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ).&rdquo;

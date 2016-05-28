@@ -13,7 +13,7 @@ tags:
 ---
 ![](/images/Political_Brands.jpg)
 
-*Updated: 2016-04-23*
+*[Updated: 2016-05-21](#2016-05-21-Update)*
 
 ### Will any of the presidential candidates save the USA if elected?
 The answer that one gives (**not** the truth) depends, in part, upon his or her worldview. Someone looking at the world scene, with all of its wars and conflict, is likely to conclude that humans can solve our problems by getting rid of our differences. Thus, the humanist (and, surprisingly, the Islamist) might (apparently logically) conclude that the solution to the major problems that we are facing is a global, worldwide (or "one-world") government and a single ("tolerant" but uniform) religion for all of humanity.
@@ -70,8 +70,17 @@ Today, I am not feeling so great about contemplating Trump as the next president
 * [Donald Trump: Transgender People Should Be Allowed to Use Bathroom of Their Choice](http://www.mediaite.com/tv/donald-trump-transgender-people-should-be-allowed-to-use-bathroom-of-their-choice/)
 * [The Most Terrifying Donald Trump Video Yet!](http://messiahsmandate.org/terrifying-donald-trump-17-video-yet-2/)
 
+### 2016-05-21 Update
+
+* [Why George Washington Would Have Agreed With Donald Trump](http://www.politico.com/magazine/story/2016/05/founding-fathers-2016-donald-trump-america-first-foreign-policy-isolationist-213873), or to have it read to you via a synthesized, British voice: [click here](https://youtu.be/AwKBiBrjreY)
+* [Donald Trump Releases List of 11 Potential Supreme Court Justices, "I'm Not Appointing a Liberal"](http://www.lifenews.com/2016/05/18/donald-trump-releases-list-of-11-potential-supreme-court-justices-im-not-appointing-a-liberal/): For those who pray that the government will turn from its lawless, unconstitutional ways, this is huge (or, "yuuuge," as Trump would say).
+
+---
+
+The horrible alternative:
+
 {% youtube r7e6gLht6OQ %}
 
 <br>
 <hr style="border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
-For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://amzn.to/1KiS8lM).&rdquo;
+For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ).&rdquo;

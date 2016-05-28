@@ -8,7 +8,7 @@ tags:
 - Antichrist
 ---
 ![](/images/antichrist.jpg)
-Note: This is a work in progress, and the finished version may be released in one of the books in the [Answers From God Series](http://amzn.to/1KiS8lM).
+Note: This is a work in progress, and the finished version may be released in one of the books in the [Answers From God Series](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ).
 
 Imagine a ruler who arises and destroys the enemies of Israel (including virtually eliminating the threat of Islam to the world) and who rebuilds the temple and restores the daily sacrifice. Would you serve him? Would you accept him as the Messiah of Israel? 
 
@@ -69,4 +69,4 @@ Furthermore, read what [Chabad.org has to say about their expectations of Mashia
 
 <br>
 <hr style="border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
-For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://amzn.to/1KiS8lM).&rdquo;
+For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ).&rdquo;

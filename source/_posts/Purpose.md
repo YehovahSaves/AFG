@@ -57,4 +57,4 @@ To obtain God&rsquo;s direction:
 
 <br>
 <hr style="border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">
-For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://amzn.to/1KiS8lM).&rdquo;
+For more Answers from &#1497;&#1492;&#1493;&#1492;, read the book series entitled, &ldquo;[Answers From God](http://www.amazon.com/gp/product/B00T74IHGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T74IHGO&linkCode=as2&tag=answ0aa-20&linkId=UISMRPOF6AWJXLWQ).&rdquo;
