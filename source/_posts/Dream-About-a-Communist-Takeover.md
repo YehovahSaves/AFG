@@ -7,6 +7,8 @@ tags:
 ---
 <img id="mainImage" src="/images/Communist_Takeover_051.png" alt="America has been Infected With Communism" />
 
+*[Updated: 2016-05-28](#2016-05-28-Update)*
+
 On July 11, 2012, I had a dream which I believe was about the USA. I suspect that this dream may have been from God, perhaps in answer to some of my prayers at the time. This was the dream, except for certain aspects that I have decided not to share:
 
 >Communists started rising to power (in America, I believe), and the majority of the people were for them. The so called "liberals" naturally merged with the communists, since it became clear (at that point) that the "liberal" ideals had always contained a bit of communism. Only I and a few other Christians who held onto (kept) our faith did not succumb to the communist dogmas, while everyone else cheered them on.
@@ -82,9 +84,19 @@ While looking for the images for this page, I came across these:
 
 {% youtube Wd0aW-4mV68 %}
 
+### 2016-05-21 Update:
 [Agenda 21: The BLM Land Grabbing Endgame](http://thetruthwins.com/archives/agenda-21-the-blm-land-grabbing-endgame)
 
-[](http://northwestlibertynews.com/future-america-half-u-s-adults-age-30-now-reject-capitalism/)
+[The Future Of America?](http://northwestlibertynews.com/future-america-half-u-s-adults-age-30-now-reject-capitalism/)
+
+### 2016-05-28 Update:
+{% youtube t2HaJcN7Ua8 %}
+
+{% youtube EW-k17DR7k4 %}
+
+{% youtube P3hY1eagq88 %}
+
+{% youtube n0FF13u13WE %}
 
 <br>
 <hr style="border:0; height:1px; background-image:linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.75), rgba(0,0,0,0));">

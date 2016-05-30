@@ -9,7 +9,7 @@ tags:
 ---
 ![](/images/wicked-prosper.jpg)
 
-*Updated: 2016-05-25*
+*Updated: 2016-05-28*
 
 >Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!
 ><cite>[Isaiah 5:20, KJV](https://www.biblegateway.com/passage/?search=Isaiah+5%3A20&version=KJV)</cite>
@@ -17,6 +17,10 @@ tags:
 <!-- -->
 >When the wicked flourish like grass and all the workers of evil blossom, it is so they can be destroyed forever.
 ><cite>[Psalm 92:7, LEB](https://www.biblegateway.com/verse/en/Psalm%2092:7)</cite>
+
+<!-- -->
+>The wicked shall be turned into hell, and all the nations that forget Elohim. For the needy shall not alway be forgotten: the expectation of the poor shall not perish for ever.
+><cite>[Psalm 9:17-18, RNKJV](http://yahushua.net/scriptures/psa009.htm)</cite>
 
 <!-- -->
 >The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come. He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.

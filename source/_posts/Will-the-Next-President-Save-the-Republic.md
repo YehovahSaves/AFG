@@ -13,7 +13,7 @@ tags:
 ---
 ![](/images/Political_Brands.jpg)
 
-*[Updated: 2016-05-21](#2016-05-21-Update)*
+*[Updated: 2016-05-28](#2016-05-28-Update)*
 
 ### Will any of the presidential candidates save the USA if elected?
 The answer that one gives (**not** the truth) depends, in part, upon his or her worldview. Someone looking at the world scene, with all of its wars and conflict, is likely to conclude that humans can solve our problems by getting rid of our differences. Thus, the humanist (and, surprisingly, the Islamist) might (apparently logically) conclude that the solution to the major problems that we are facing is a global, worldwide (or "one-world") government and a single ("tolerant" but uniform) religion for all of humanity.
@@ -72,10 +72,39 @@ Today, I am not feeling so great about contemplating Trump as the next president
 
 ### 2016-05-21 Update
 
-* [Why George Washington Would Have Agreed With Donald Trump](http://www.politico.com/magazine/story/2016/05/founding-fathers-2016-donald-trump-america-first-foreign-policy-isolationist-213873), or to have it read to you via a synthesized, British voice: [click here](https://youtu.be/AwKBiBrjreY)
+* [Why George Washington Would Have Agreed With Donald Trump](http://www.politico.com/magazine/story/2016/05/founding-fathers-2016-donald-trump-america-first-foreign-policy-isolationist-213873), or to have it read to you via a synthesized, British voice: {% youtube AwKBiBrjreY %}
 * [Donald Trump Releases List of 11 Potential Supreme Court Justices, "I'm Not Appointing a Liberal"](http://www.lifenews.com/2016/05/18/donald-trump-releases-list-of-11-potential-supreme-court-justices-im-not-appointing-a-liberal/): For those who pray that the government will turn from its lawless, unconstitutional ways, this is huge (or, "yuuuge," as Trump would say).
 
----
+### 2016-05-28 Update
+
+This compilation is very scary to consider: {% youtube xDreLyC_FTQ %}
+
+Trump was definitely correct about Iraq; also, read my article about [Iran](http://answersfromgod.com/2015/05/23/Iran/?AnswersFromGod=Will-the-Next-President-Save-the-Republic):
+{% youtube eAVYjIfU3eA %}
+{% youtube NJ5lVtQ-ipg %}
+
+[Moveon.Org raising funds from Trump protests, warns more disruptions to come](http://www.washingtontimes.com/news/2016/mar/13/moveonorg-raising-funds-from-trump-protests-warns-/)
+
+[Anti-Trump Protesters Admit Answering Craigslist Ad and Getting Paid to Protest Trump](http://www.thegatewaypundit.com/2016/03/anti-trump-protesters-admit-answering-craigslist-ad-and-getting-paid-to-protest-trump/); note that [the Soros funded Snopes.com denies this](http://www.snopes.com/craigslist-ad-trump-rally/) (of course).
+
+[Clinton And Soros Are Behind Violent Riots At Trump Rallies, Not Sanders](http://dailycaller.com/2016/03/21/clinton-and-soros-are-behind-violent-riots-at-trump-rallies-not-sanders/)
+
+Police Officer Brandon Tatum talks about his experience at the Donald Trump rally in Tucson, Arizona: {% youtube 2q6jHad-XG0 %}
+
+At around 4:00 is an abbreviated testimony of Officer Brandon (who was surprised by what he saw and heard at a Trump rally in Tucson): {% youtube PdsxqNYqf90 %}
+
+Here is an interview of Officer Brandon: {% youtube 5twtytvAneE %}
+
+Anti-Trump Protesters Attack People and Create Chaos at Trump Rally in San Diego, California: {% youtube 9exJNJzKs0E %}
+
+Anti-Trump Protesters Throw Bottles at Police in San Diego, California: {% youtube DSGhAB7zPek %}
+
+Anti-Trump Protesters get Violent at Trump Rally in Anaheim, California: {% youtube jnse02cTD6k %}
+
+Anti-Trump Rally in NYC: {% youtube R_lcFJLmDXg %}
+
+<br>
+<hr />
 
 The horrible alternative:
 
